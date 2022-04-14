@@ -15,7 +15,6 @@ public class Task5List {
 		dogList.add("ダックスフンド");
 
 //	メソッド参照で順番に出力
-
 		dogList.forEach(System.out::println);
 	}
 }
